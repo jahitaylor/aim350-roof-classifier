@@ -1,0 +1,7 @@
+# Ignore dataset images
+data/
+
+# Ignore Python cache and Jupyter notebook checkpoints
+__pycache__/
+*.ipynb_checkpoints/
+.env
