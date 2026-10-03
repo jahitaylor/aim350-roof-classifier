@@ -1,6 +1,10 @@
 # Aerial Image Classification of Residential Roofs for Resilient Retrofits
 **AIM 350 - Term Group Project**
 
+## Group Members
+- Ishmael Beharry 
+- Key Williams-Pruitt (Genetic Optimization)
+
 ## Project Overview
 This project uses a Genetic-Algorithm-Optimized CNN to classify residential roof conditions (healthy, requires maintenance, retrofit candidate) using custom aerial imagery.
 
