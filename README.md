@@ -2,8 +2,9 @@
 **AIM 350 - Term Group Project**
 
 ## Group Members
-- Ishmael Beharry 
+- Ishmael Beharry (Deployment) 
 - Key Williams-Pruitt (Genetic Optimization)
+- Christoper Rubio (Baseline Modeling)
 
 ## Project Overview
 This project uses a Genetic-Algorithm-Optimized CNN to classify residential roof conditions (healthy, requires maintenance, retrofit candidate) using custom aerial imagery.
