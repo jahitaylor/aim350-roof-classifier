@@ -2,6 +2,7 @@
 **AIM 350 - Term Group Project**
 
 ## Group Members
+- Jahi Taylor (Data & Infrastructure)
 - Ishmael Beharry (Deployment) 
 - Key Williams-Pruitt (Genetic Optimization)
 - Christoper Rubio (Baseline Modeling)
